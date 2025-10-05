@@ -1,2 +1,2 @@
 # Git-Demo
-Learning git commands and version control systems
+Learning git commands and version control systems.
